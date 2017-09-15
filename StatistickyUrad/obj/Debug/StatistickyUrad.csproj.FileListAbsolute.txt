@@ -1,0 +1,9 @@
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\StatistickyUrad.exe.config
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\StatistickyUrad.exe
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\StatistickyUrad.pdb
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\HtmlAgilityPack.dll
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\HtmlAgilityPack.pdb
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\bin\Debug\HtmlAgilityPack.xml
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\obj\Debug\StatistickyUrad.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\obj\Debug\StatistickyUrad.exe
+c:\users\michal\documents\visual studio 2013\Projects\StatistickyUrad\StatistickyUrad\obj\Debug\StatistickyUrad.pdb
